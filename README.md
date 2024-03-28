@@ -1,1 +1,1 @@
-# Digit_classification
+# Digits_classification
